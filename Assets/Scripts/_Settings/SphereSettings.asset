@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39b4b8b267c64b609ea16814b9b2e7aa, type: 3}
   m_Name: SphereSettings
   m_EditorClassIdentifier: 
-  maxSpeed: 20
-  acceleration: 2
+  maxSpeed: 50
+  acceleration: 5
   deflectionAngle: 80
-  centreDetectionThreshold: 0.2
+  centreDetectionThreshold: 0.5
